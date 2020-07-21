@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.sofi.test.SofiLoginTest">
+        <methods>
+          <include name="assetinfotest"/>
+          <include name="GetYourRatesTest"/>
+          <include name="ReportsetUp"/>
+          <include name="PropertyInfoTest"/>
+          <include name="RealEstateInfoTest"/>
+          <include name="tearDown"/>
+          <include name="IncomeInfoTest"/>
+          <include name="MortgageEligibilityTest"/>
+          <include name="getResult"/>
+          <include name="PersonalInfoTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.sofi.test.SofiLoginTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

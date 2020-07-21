@@ -1,0 +1,338 @@
+2020-07-03 10:38:41,760 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-03 10:44:38,247 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-03 11:17:15,574 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-03 11:17:15,585 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-03 11:17:15,592 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 05:58:09,950 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 05:58:09,960 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 05:58:09,966 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 06:30:44,356 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 06:30:44,366 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 06:30:44,373 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 14:46:12,816 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 14:46:12,833 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 14:46:12,842 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 14:59:41,787 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 14:59:41,796 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 14:59:41,801 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 16:35:04,585 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 16:35:04,594 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 16:35:04,600 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 16:38:52,733 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 16:38:52,743 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 16:38:52,748 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 17:08:59,333 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 17:08:59,342 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 17:08:59,347 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 17:10:03,793 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 17:10:03,812 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 17:10:03,818 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 17:14:39,729 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 17:14:39,747 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 17:14:39,753 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 17:45:00,115 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 17:45:00,125 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 17:45:00,130 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 18:04:14,136 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 18:04:14,146 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 18:04:14,151 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 18:05:59,064 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 18:05:59,073 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 18:05:59,077 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 18:10:53,710 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 18:10:53,725 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 18:10:53,732 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 21:28:07,599 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 21:28:07,609 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 21:28:07,613 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 21:34:09,081 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 21:34:09,089 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 21:34:09,095 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 21:35:39,260 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 21:35:39,275 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 21:35:39,280 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 21:38:15,749 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 21:38:15,758 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 21:38:15,763 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 21:49:09,078 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 21:49:09,088 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 21:49:09,093 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 21:52:37,823 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 21:52:37,838 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 21:52:37,845 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 22:26:31,934 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 22:26:31,943 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 22:26:31,949 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 22:42:19,082 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 22:42:19,102 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 22:42:19,108 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 22:57:21,569 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 22:57:21,578 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 22:57:21,627 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 23:18:29,413 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:18:29,423 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:18:29,429 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 23:28:59,776 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:28:59,795 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:28:59,844 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 23:30:58,786 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:30:58,795 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:30:58,801 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 23:35:36,981 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:35:36,992 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:35:36,996 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 23:40:34,385 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:40:34,404 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:40:34,410 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 23:46:46,537 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:46:46,557 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:46:46,565 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 23:52:18,919 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:52:18,938 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:52:18,945 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 23:55:05,396 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:55:05,405 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:55:05,411 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 23:56:06,909 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:56:06,918 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:56:06,924 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-04 23:57:11,680 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:57:11,694 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-04 23:57:11,699 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 00:09:18,000 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:09:18,011 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:09:18,017 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 00:14:35,376 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:14:35,385 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:14:35,390 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 00:22:12,770 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:22:12,779 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:22:12,784 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 00:26:02,141 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:26:02,160 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:26:02,168 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 00:27:35,981 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:27:35,996 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:27:36,002 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 00:38:17,697 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:38:17,707 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:38:17,714 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 00:40:47,407 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:40:47,417 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:40:47,424 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 00:42:23,047 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:42:23,056 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:42:23,062 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 00:52:14,694 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:52:14,704 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:52:14,710 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 00:55:19,414 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:55:19,424 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:55:19,430 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 00:58:51,172 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:58:51,187 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 00:58:51,196 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 15:41:49,816 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 15:41:49,830 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 15:41:49,836 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 15:43:10,193 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 15:43:10,202 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 15:43:10,208 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 15:45:39,461 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 15:45:39,469 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 15:45:39,474 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 15:48:07,432 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 15:48:07,450 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 15:48:07,456 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 18:16:09,031 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:16:09,077 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:16:09,082 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 18:46:15,848 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:46:15,899 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:46:15,905 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 18:50:57,352 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:50:57,399 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:50:57,404 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 18:54:46,206 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:54:46,255 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:54:46,260 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 18:56:22,501 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:56:22,511 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:56:22,516 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 18:58:54,007 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:58:54,055 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:58:54,062 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 18:59:46,374 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:59:46,385 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 18:59:46,392 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 19:01:16,528 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 19:01:16,537 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 19:01:16,543 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 19:02:54,351 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 19:02:54,363 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 19:02:54,371 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 19:04:25,557 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 19:04:25,605 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 19:04:25,611 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 22:20:05,367 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 22:20:05,416 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 22:20:05,422 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 22:23:19,865 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 22:23:19,913 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 22:23:19,918 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 22:27:39,334 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 22:27:39,385 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 22:27:39,391 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 22:28:50,565 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 22:28:50,621 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 22:28:50,626 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 22:32:19,072 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 22:32:19,120 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 22:32:19,125 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 22:38:32,877 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 22:38:32,926 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 22:38:32,932 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 23:13:39,698 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 23:13:39,746 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 23:13:39,751 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 23:17:27,839 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 23:17:27,894 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 23:17:27,901 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-05 23:23:50,498 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 23:23:50,508 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-05 23:23:50,560 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 09:10:35,098 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 09:10:35,153 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 09:10:35,160 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 09:13:20,131 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 09:13:20,179 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 09:13:20,184 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 09:41:52,623 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 09:41:52,675 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 09:41:52,681 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 11:01:18,680 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:01:18,731 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:01:18,736 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 11:04:51,632 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:04:51,681 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:04:51,687 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 11:09:28,261 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:09:28,310 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:09:28,315 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 11:13:50,504 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:13:50,550 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:13:50,556 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 11:26:38,893 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:26:38,943 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:26:38,947 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 11:31:11,723 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:31:11,773 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:31:11,779 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 11:34:47,939 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:34:47,948 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:34:47,954 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 11:47:15,500 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:47:15,511 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:47:15,517 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 11:54:57,817 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:54:57,827 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:54:57,833 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 11:59:15,753 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:59:15,762 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 11:59:15,768 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 12:12:06,754 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 12:12:06,764 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 12:12:06,769 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 12:14:40,889 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 12:14:40,898 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 12:14:40,904 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 12:17:20,877 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 12:17:20,889 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 12:17:20,896 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 12:30:24,947 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 12:30:24,958 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 12:30:24,964 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 12:34:23,001 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 12:34:23,010 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 12:34:23,015 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 12:37:52,336 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 12:37:52,347 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 12:37:52,352 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 16:06:48,712 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 16:06:48,722 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 16:06:48,727 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 16:25:01,280 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 16:25:01,290 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 16:25:01,295 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-06 16:26:29,000 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 16:26:29,009 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-06 16:26:29,014 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-10 14:55:11,221 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-10 14:55:11,238 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-10 14:55:11,244 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-10 14:56:38,577 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-10 14:56:38,586 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-10 14:56:38,591 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-10 15:05:23,898 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-10 15:05:23,909 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-10 15:05:23,913 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-10 15:14:38,729 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-10 15:14:38,746 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-10 15:14:38,753 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-10 15:25:19,351 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-10 15:25:19,361 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-10 15:25:19,366 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-10 15:26:38,442 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-10 15:26:38,452 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-10 15:26:38,457 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-11 11:03:06,892 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 11:03:06,903 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 11:03:06,909 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-11 11:13:20,582 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 11:13:20,589 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 11:13:20,594 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-11 17:58:31,356 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 17:58:31,366 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 17:58:31,371 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-11 19:09:52,462 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 19:09:52,472 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 19:09:52,478 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-11 19:12:18,545 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 19:12:18,556 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 19:12:18,563 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-11 19:22:31,253 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 19:22:31,264 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 19:22:31,269 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-11 19:27:15,042 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 19:27:15,050 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-11 19:27:15,056 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-13 14:31:06,583 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-13 14:31:06,606 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-13 14:31:06,612 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-15 09:32:07,581 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 09:32:07,594 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 09:32:07,600 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-15 09:49:31,447 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 09:49:31,459 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 09:49:31,466 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-15 09:52:56,518 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 09:52:56,533 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 09:52:56,541 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-15 10:29:50,538 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 10:29:50,550 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 10:29:50,555 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-15 10:39:51,138 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 10:39:51,154 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 10:39:51,159 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-15 10:42:11,734 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 10:42:11,746 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 10:42:11,751 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-15 10:48:13,088 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 10:48:13,101 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-15 10:48:13,109 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-20 12:38:43,930 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-20 12:38:43,945 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-20 12:38:43,955 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
+2020-07-20 13:05:26,228 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-20 13:05:26,238 - com.sofi.basetest.BaseTest -INFO - Browser Opened
+2020-07-20 13:05:26,243 - com.sofi.basetest.BaseTest -INFO - Implicit wait given
